@@ -15,6 +15,9 @@ React Native TypeScript Proof-of-Concept
 ### Icons
 * [react-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
 
+### Colors
+* [React Native Colors](https://facebook.github.io/react-native/docs/colors.html)
+
 ## Features
 * Camera access
 * Local SQLite database
