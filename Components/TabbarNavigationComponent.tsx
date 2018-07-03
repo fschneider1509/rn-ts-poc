@@ -30,7 +30,7 @@ export const TabbarNavigationComponent = createBottomTabNavigator (
         }),
         tabBarOptions: {
             activeTintColor: '#007aff',
-            inactiveTintColor: 'gray'
+            inactiveTintColor: 'white'
         },
         tabBarPosition: 'bottom',
         animationEnabled: false,
